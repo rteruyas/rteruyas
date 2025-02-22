@@ -1,11 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! My name is Ray, I work as a BI developer and I'm a technology enthusiast. Here you'll find a collection of my projects, collaborations, and contributions to the open-source community.
-
-About Me
-- 🌱 I’m learning and exploring AI / ML.
-- 💪 I’m currently working on eating better and doing more exercise.
-- 🤝 I’m looking to collaborate on innovative projects and open-source contributions.
+Welcome to my GitHub profile! My name is Ray, I work as a BI developer and I'm a technology enthusiast. Here you'll find a collection of my projects, collaborations, and contributions to the open-source community. Looking forward to collaborate!
 
 Skills
 
